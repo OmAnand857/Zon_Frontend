@@ -1,0 +1,29 @@
+.CheckoutProduct{
+    display:flex;
+    align-items:center;
+    width:100%;
+}
+.CheckoutDetails{
+    display:flex;
+    flex-direction:column;
+}
+.CheckoutDetails>button{
+    background:#f0c14b;
+    border:1px solid;
+    margin-top:10px;
+    color:#111;
+}
+.RatingPrice{
+    display:flex;
+    flex-direction:column;
+
+}
+.CheckoutImage >img{
+    height :200px;
+    width:300px;
+    object-fit: contain;
+
+}
+.Rating{
+    display:flex;
+}

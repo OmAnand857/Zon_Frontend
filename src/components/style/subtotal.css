@@ -1,0 +1,11 @@
+.Subtotal{
+    width:100%;
+    height:max-content;
+}
+.Subtotal_button{
+    width:100%;
+    background:#f0c14b;
+    border:1px solid;
+    margin-top:10px;
+    color:#111;
+}
